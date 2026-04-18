@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9813c274-e611-4021-ad4e-4c414008d16f",
+  "export_job_id": "688e984b-6cbf-4dac-8c8a-0a4dd0a903c2",
   "id_short": 327719,
-  "published_at": "2026-04-11T19:28:57Z",
+  "published_at": "2026-04-18T07:52:56Z",
   "repo_name": "restaurant-verified-email-access-in-idaho-us-sample-327719",
   "sample_asset_name": "beamstation_327719_restaurants-us-id_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/327719/beamstation_327719_restaurants-us-id_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "f2597b7d30bdfea6fd857d8efdcd7bcbf0cb3383b26b39d92b688b5e7c72abfe",
-  "sample_size_bytes": 57602,
-  "total_records": 475
+  "sample_records": 73,
+  "sample_sha256": "03dd10ef6afefce0f11257b9c4dd52a3c23a33bb16e737d38f1095070f7e29c1",
+  "sample_size_bytes": 300249,
+  "total_records": 738
 }
