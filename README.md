@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Idaho, US
 
-> Free BeamStation sample export with 73 rows and masked direct-contact fields.
+> Free BeamStation sample export with 46 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `327719` |
 | Location | Idaho |
 | Category | Restaurants |
-| Full dataset size | 738 records |
-| Free sample size | 73 records (9.89%) |
-| Last export | 2026-04-15T04:09:59.317380+00:00 |
+| Full dataset size | 469 records |
+| Free sample size | 46 records (9.81%) |
+| Last export | 2026-04-22T09:41:26.095489+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-idaho-us-sample-327719/releases/download/sample-latest/beamstation_327719_restaurants-us-id_SAMPLE_DIST.csv) |
 
 ## What is in this sample
